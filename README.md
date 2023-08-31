@@ -1,3 +1,13 @@
+##These are the Screenshot of application
+
+
+![Screenshot (74)](https://github.com/ashishrair500/NewsTrend/assets/100395176/389a956b-0eab-42dc-9a3d-4b7a7eacade8)
+![Screenshot (75)](https://github.com/ashishrair500/NewsTrend/assets/100395176/50306a39-1ebf-4382-a423-73782d07f36e)
+![Screenshot (76)](https://github.com/ashishrair500/NewsTrend/assets/100395176/ee85edff-28fb-4c3b-9a9b-b23f8819aa39)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,12 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-![Screenshot (74)](https://github.com/ashishrair500/NewsTrend/assets/100395176/389a956b-0eab-42dc-9a3d-4b7a7eacade8)
-![Screenshot (75)](https://github.com/ashishrair500/NewsTrend/assets/100395176/50306a39-1ebf-4382-a423-73782d07f36e)
-![Screenshot (76)](https://github.com/ashishrair500/NewsTrend/assets/100395176/ee85edff-28fb-4c3b-9a9b-b23f8819aa39)
-
 
 
 
